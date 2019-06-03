@@ -1,2 +1,3 @@
-# php-starter
-a simple php project starter
+# PHP Starter
+
+A simple PHP project starter
